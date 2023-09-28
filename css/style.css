@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* text-align: center; */
+  padding: 50px;
+  background-color: #444;
+}
+
+body h1 {
+  text-align: center;
+}
+
+form,
+section {
+  margin: 20px;
+}
+
+#lista-de-tarefas {
+  margin-left: 15px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+li span {
+  /* text-decoration: line-through; */
+  margin: 0 10px;
+}
