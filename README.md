@@ -1,2 +1,2 @@
 # lista-de-tarefas
- Lista de tarefas, preciso melhorar o designe e adicionar novas funcionalidades
+ Lista de tarefas, preciso melhorar o design e adicionar novas funcionalidades
