@@ -1,2 +1,2 @@
 # lista-de-tarefas
- Lista de tarefas, preciso melhorar o design e adicionar novas funcionalidades
+Lista de tarefas feita com HTML, CSS e JavaScript
